@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Bimlesh.Kumar
+Build-Jdk: 17.0.5
+Implementation-Title: deepak-client
+Implementation-Version: 0.1.0
+Implementation-Vendor-Id: org.springframework
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/deepak-client/
+Created-By: Maven Integration for Eclipse
+
